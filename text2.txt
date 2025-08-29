@@ -1,9 +1,0 @@
-
-x-briše jedan znak
-dd-briše cijelu liniju
-u-poništava zadnju promijenu
-h,j,k,l - kretanje h lijevo j dolje k gore l desno
-ESC - prelazak iz editing u command mode, editiranje u naredbeni mod
-Slovo i - izmjena editiranje u naredbeni i obratno
-dvotočka: wq - spremanje i izlaz
-dvotočka: q! - izlaz bez spremanja 
